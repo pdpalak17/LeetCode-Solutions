@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2029-stone-game-ix](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [2352-equal-row-and-column-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2352-equal-row-and-column-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
