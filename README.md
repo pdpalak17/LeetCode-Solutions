@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2352-equal-row-and-column-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -155,8 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
