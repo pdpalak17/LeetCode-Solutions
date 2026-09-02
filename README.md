@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
@@ -174,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
