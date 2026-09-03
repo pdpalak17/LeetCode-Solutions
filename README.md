@@ -183,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
