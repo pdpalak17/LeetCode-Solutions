@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0399-evaluate-division](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0486-predict-the-winner](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0841-keys-and-rooms](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3310-remove-methods-from-project](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -315,4 +320,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
