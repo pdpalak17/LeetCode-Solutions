@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0486-predict-the-winner](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -350,4 +352,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
