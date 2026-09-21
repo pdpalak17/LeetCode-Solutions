@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -363,8 +365,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
