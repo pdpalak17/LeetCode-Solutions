@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
