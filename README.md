@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
