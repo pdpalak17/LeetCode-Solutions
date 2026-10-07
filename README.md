@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1268-search-suggestions-system](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1268-search-suggestions-system](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1406-stone-game-iii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1096-brace-expansion-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1268-search-suggestions-system](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1268-search-suggestions-system](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
@@ -498,4 +503,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
