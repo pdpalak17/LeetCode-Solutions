@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0901-online-stock-span](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
@@ -520,4 +523,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
