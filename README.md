@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2029-stone-game-ix](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
@@ -552,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [1254-number-of-closed-islands](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Shortest Path
