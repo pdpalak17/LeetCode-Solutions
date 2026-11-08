@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1268-search-suggestions-system](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
