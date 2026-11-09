@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/pdpalak17/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
